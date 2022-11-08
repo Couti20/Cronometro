@@ -1,0 +1,14 @@
+algoritmo "creuza03"
+// Função :
+// Autor :
+// Data : 01/06/2021
+// Seção de Declarações 
+var
+      f, c:real
+inicio
+      escreva("qual e a temperatura aqui ? ")
+      leia(f)
+      c <- (f - 32 ) / 1.8
+      escreva("no brasil estaria ", c:4:1)
+fimalgoritmo
+

@@ -1,0 +1,16 @@
+algoritmo "par ou impar"
+// Função :
+// Autor :
+// Data : 01/06/2021
+// Seção de Declarações
+var
+n: inteiro
+inicio
+escreva ("digite um numero qualquer: ")
+leia (n)
+se n % 2 = 0) entao
+   escreval ("o numero"   , n, " e par")
+senao
+   escreval ("o numero ", n, " e impar")
+fimse
+fimalgoritmo

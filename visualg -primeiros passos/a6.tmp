@@ -1,0 +1,15 @@
+algoritmo "creuza"
+// Função :
+// Autor :
+// Data : 01/06/2021
+// Seção de Declarações 
+var
+   ano_atual, ano_nasc, idade:inteiro
+inicio
+  escreva ("em qual anos nós estamos? ")
+  leia (ano_atual)
+  escreva ("em que anos eu nasci? ")
+  leia(ano_nasci)
+  idade <- ano_atual-ano_nasc
+  escreva("minha idade sera ", idade)
+fimalgoritmo

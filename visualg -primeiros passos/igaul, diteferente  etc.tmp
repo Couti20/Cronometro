@@ -1,0 +1,14 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 31/05/2021
+// Seção de Declarações 
+var
+    a, b, c: inteiro
+inicio
+
+a <- 2
+b <- 3
+c <- 5
+  escreva ((a=b) ou (c>a))
+fimalgoritmo

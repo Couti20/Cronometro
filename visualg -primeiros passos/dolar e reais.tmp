@@ -1,0 +1,13 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 01/06/2021
+// Seção de Declarações 
+var
+   reais, dolares: real
+inicio
+      escreva("quantos reais eu tenho ? R$")
+      leia (reais)
+      dolares <- reais/2.20
+      escreva ("posso ter US$", dolares )
+fimalgoritmo

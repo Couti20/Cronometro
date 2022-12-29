@@ -1,15 +1,15 @@
 import './index.css'
-import Reactqualquenome from 'react-dom'
+import ReactDOM from 'react-dom'
 import React from 'react'
 
 
+import Ex from './componets/basicos/Primeiro'
+ 
+ 
 
-const tag =  <strong>Bora la React!!!</strong>
-
-
-Reactqualquenome.render(
+ReactDOM.render(
 <div>
-    {tag}
+    <Ex></Ex>
 </div>,
 document.getElementById('root')
 )
